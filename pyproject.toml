@@ -1,0 +1,8 @@
+[project]
+name = "modeling-customer-churn-based-on-multiple-predictors"
+version = "0.1.0"
+description = "Add your description here"
+requires-python = ">=3.10"
+dependencies = [
+    "notebook>=7.4.4",
+]
